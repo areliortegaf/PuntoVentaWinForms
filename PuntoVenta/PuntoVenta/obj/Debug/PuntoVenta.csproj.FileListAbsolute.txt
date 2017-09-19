@@ -1,0 +1,12 @@
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csprojResolveAssemblyReference.cache
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Form1.resources
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Properties.Resources.resources
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.GenerateResource.Cache
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb
+C:\Users\asortega\source\repos\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.Menu.resources
